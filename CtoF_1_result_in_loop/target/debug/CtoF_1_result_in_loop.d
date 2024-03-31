@@ -1,0 +1,1 @@
+D:\OneDrive\ -\ Instituto\ Tecnológico\ Metropolitano\coding\rust\CtoF_1_result_in_loop\target\debug\CtoF_1_result_in_loop.exe: D:\OneDrive\ -\ Instituto\ Tecnológico\ Metropolitano\coding\rust\CtoF_1_result_in_loop\src\main.rs
